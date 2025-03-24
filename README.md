@@ -3,6 +3,8 @@
 ## 📜 Description
 This is a **FiveM** script for **QB-Core** that allows players to use a **pepper spray** (`weapon_pepperspray`). The spray is activated when the player **holds the left mouse button** while aiming and stops when they release the button. The spray applies **visual effects** and temporarily disables the affected target by making them **stumble and cough**. 🤧
 
+
+
 ## ✨ Features
 ✅ **Hold left-click** while aiming to continuously spray.
 ✅ Releases a **visible spray effect** while in use.
