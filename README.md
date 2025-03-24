@@ -29,6 +29,9 @@ This is a **FiveM** script for **QB-Core** that allows players to use a **pepper
 🎯 **Hold Right Mouse Button** (Aim) + **Hold Left Mouse Button** to Spray.
 🛑 **Release Left Mouse Button** to stop spraying.
 
+![image](https://github.com/user-attachments/assets/9e4a1774-e883-467d-9179-967c18b77d1a)
+
+
 ## 🔗 Dependencies
 - 🏗️ **QB-Core Framework**
 - 🔫 **A weapon model for `weapon_pepperspray`**
