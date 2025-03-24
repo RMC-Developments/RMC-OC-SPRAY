@@ -31,7 +31,7 @@ This is a **FiveM** script for **QB-Core** that allows players to use a **pepper
 - 🔫 **A weapon model for `weapon_pepperspray`**
 
 ## 🆘 Support
-For support or questions, join my **Discord**: [vtu4B7tAvA](https://discord.gg/vtu4B7tAvA) 💬
+For support or questions, join my **Discord**: https://discord.gg/vtu4B7tAvA 💬
 
 ## 👏 Credits
 - 🛠️ Script developed by [Your Name].
